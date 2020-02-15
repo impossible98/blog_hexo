@@ -1,0 +1,10 @@
+### Hexo ###
+*.log
+.deploy*/
+Thumbs.db
+db.json
+node_modules/
+public/
+
+### macOS ###
+.DS_Store
